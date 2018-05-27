@@ -1,3 +1,7 @@
+Notes just for myself
+on ym computer, this project is named project 17-jquery-DOM Traversal
+
+
 $('#element').text();
 $('#element').html();
 
